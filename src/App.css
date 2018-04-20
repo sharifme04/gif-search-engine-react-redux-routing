@@ -1,0 +1,28 @@
+.navbar {
+  background-color: #f43325; }
+
+.form-control {
+  margin-top: 5px; }
+
+::-webkit-input-placeholder {
+  text-align: center; }
+
+ul li {
+  float: left;
+  width: 23%;
+  margin-right: 2%;
+  list-style: none; }
+  ul li img {
+    width: 400px;
+    margin: 5px; }
+
+.SingleView {
+  width: 70%;
+  height: auto; }
+
+.single-image {
+  text-align: center;
+  background: #f2f2f2; }
+
+.url-position {
+  text-align: center; }
